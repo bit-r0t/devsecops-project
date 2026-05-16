@@ -1,0 +1,2 @@
+# DevSecOps Project
+I've worked on this project to familiarize myself with `Ansible`, `Terraform`, and `Kubernetes`, as well as the CD part of CI/CD. The goal is to make an app that uses MinIO as the storage backend, with security checks using Trivy and Falco, and monitoring via Prometheus and Graphana, and having the whole package be ready to deploy by running a single script, and be self healing.
